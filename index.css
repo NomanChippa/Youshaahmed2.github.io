@@ -337,6 +337,19 @@ a.premountain
     color:rgb(255, 44, 90);
     text-decoration:none;
 }
+#footer2
+{
+    color: gray;
+    width:100%;
+    padding:10vh 0px;
+    text-align:center;
+    font-weight:bold;
+}
+#footer2 a
+{
+    color:rgb(255, 44, 90);
+    text-decoration:none;
+}
 ::placeholder {
     color:#000;
 }
