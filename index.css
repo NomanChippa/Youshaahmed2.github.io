@@ -149,7 +149,7 @@ header table {
     font-size:18px;
     font-family: 'Poppins', sans-serif;
     color:gray;
-    background: white;
+/*     background: white; */
     border:3px solid gray;
     padding:8px 40px;
     width:35%;
