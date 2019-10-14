@@ -198,6 +198,45 @@ header table {
     transform: scale(1.1);
     cursor: pointer;
 }
+a.premountain
+{
+    list-style-type: upper-roman;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+#example
+{
+    width:92vw;
+    padding:6vh 4vw;
+    font-weight:bold;
+}
+#example h1
+{
+    color: gray;
+    padding:5px 0px;
+    border-bottom:4px solid rgb(255, 44, 90);
+    width:6%;
+}
+#images
+{
+    width:100%;
+    columns:3;
+    column-gap:4%;
+    z-index:1;
+    overflow: scroll;
+    transition:0.4s ease-in-out;
+}
+#images img {
+    overflow: scroll;
+    width:100%;
+    height:auto;
+    margin:4.5% 0px;
+    transition:0.4s ease-in-out;
+}
+#images img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
 #video
 {
       width:92vw;
