@@ -198,6 +198,18 @@ header table {
     transform: scale(1.1);
     cursor: pointer;
 }
+#video
+{
+      width:92vw;
+    padding:6vh 4vw;
+    font-weight:bold;
+}
+#video h1
+{
+    padding:5px 0px;
+    border-bottom:4px solid rgb(255, 44, 90);
+    width:6%;
+}
 #bio {
     width:92vw;
     padding:6vh 4vw;
