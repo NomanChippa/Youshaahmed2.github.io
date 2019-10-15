@@ -296,7 +296,7 @@ a.premountain
     font-family: 'Poppins', sans-serif;
     font-size:18px;
 /*     transition:0.4s ease-in-out; */
-    color:black;
+    color:#000;
     font-weight:bold;
 }
 #contact form textarea {
@@ -310,7 +310,7 @@ a.premountain
     font-size:18px;
     background:transparent;
     resize:none;
-    transition:0.4s ease-in-out;
+/*     transition:0.4s ease-in-out; */
     color:#000;
     font-weight:bold;
 }
