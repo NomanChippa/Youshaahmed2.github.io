@@ -320,7 +320,7 @@ a.premountain
 }
 #contact form textarea:focus {
     outline:none;
-    border-bottom:3px solid rgba(255, 44, 90,1);
+    border-bottom:3px solid gray;
 }
 #address {
     position:relative;
