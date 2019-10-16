@@ -129,8 +129,9 @@ header table {
 }
 #about h4
 {
-    color: white;
+	color:white;
 }
+
 #about table {
     width:70%;
     margin-top:4vh;
