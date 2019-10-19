@@ -124,11 +124,12 @@ header table {
     padding:0px 8%;
 }
 #about h1 {
-    font-size:45px;
+    font-size:40px;
     word-wrap:break-word;
 }
 h4
 {
+	text-align:center;
 	color:black;
 }
 
