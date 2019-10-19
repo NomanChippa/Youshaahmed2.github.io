@@ -85,13 +85,13 @@ header table {
 #logo {
 	
     font-size:24px;
-    color:white;
+    color:black;
 }
 #navigation {
     text-align:right;
 }
 #navigation a {
-    color:white;
+    color:black;
     text-decoration:none;
     padding:5px 10px;
     border-bottom:2px solid transparent;
